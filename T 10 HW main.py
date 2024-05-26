@@ -31,6 +31,7 @@ if __name__ == "__main__":
 
 
 \Завдання 2 
+
 import numpy as np
 import matplotlib.pyplot as plt
 import scipy.integrate as spi
